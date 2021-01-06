@@ -1,0 +1,35 @@
+.blog1 {
+  font-style: italic;
+  color:blue;
+  width: 50%;
+  border: solid black;
+  border-width: 10px;
+  background-color: cornflowerblue;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+.blog2 {
+  font-style: bold;
+  color:coral;
+  width: 50%;
+  border: solid black;
+  border-width: 10px;
+  background-color: cornflowerblue;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+.blog3 {
+  font-family: cursive;
+  color:dimgray;
+  color:blue;
+  width: 50%;
+  border: solid black;
+  border-width: 10px;
+  background-color: cornflowerblue;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+.important {
+  background-color: yellow;
+}
+
