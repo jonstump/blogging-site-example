@@ -8,6 +8,9 @@
   margin-bottom: 10px;
   box-sizing: border-box;
 }
+.blog1 img {
+  border: 5px solid green;
+}
 .blog2 {
   font-style: bold;
   color:coral;
